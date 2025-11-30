@@ -12,6 +12,7 @@
 Aplikasi desktop sederhana yang dirancang untuk membantu pengguna mengelola dan mencatat transaksi keuangan pribadi (Pemasukan dan Pengeluaran). Dibangun menggunakan Java Swing untuk antarmuka pengguna grafis (GUI) dan SQLite sebagai sistem manajemen database ringan.
 
 ## 🖼️ Tampilan Aplikasi (Screenshot)
+<img width="558" height="765" alt="image" src="https://github.com/user-attachments/assets/72f081c3-9391-4266-b87b-27171bff7c2f" />
 
 
 
